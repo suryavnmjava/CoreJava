@@ -1,0 +1,14 @@
+1. Goto link
+https://jdk.java.net/java-se-ri/11
+Click on JDK Download for Java JDK  download.
+
+2. verify 64 bit with windows 10 compatiable version
+3. after download complete the installation  
+
+https://www.guru99.com/install-java.html
+
+------------
+
+
+
+https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2020-12/R/eclipse-inst-jre-win64.exe
